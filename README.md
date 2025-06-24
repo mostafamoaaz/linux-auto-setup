@@ -8,7 +8,6 @@ A modular Python-based automation tool that configures a fresh **Rocky Linux 9.3
 
 
 
-===
 
 - ✅ Set hostname and static IP via NetworkManager
 - ✅ Append hostname to `/etc/hosts`
