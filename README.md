@@ -16,7 +16,7 @@ A modular Python-based automation tool that configures a fresh **Rocky Linux 9.3
 - ✅ Deploy static website (HTML + image)
 - ✅ Verify setup and print summary
 - ✅ Bonus: ASCII logo display via `jp2a` (image-to-terminal)
-
+![Preview](drawio.PNG)
 ---
 
 ## 📁 Module Breakdown
