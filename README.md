@@ -6,7 +6,10 @@ A modular Python-based automation tool that configures a fresh **Rocky Linux 9.3
 
 ## 📦 Features
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> ed4fa90945c155c2532e694e7288507af209662c
 - ✅ Set hostname and static IP via NetworkManager
 - ✅ Append hostname to `/etc/hosts`
 - ✅ Create system users (`admin`, `developer`, `viewer`)
